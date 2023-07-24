@@ -1,0 +1,331 @@
+[
+ {
+   "name": "Scrum",
+   "ring": "Adopt",
+   "quadrant": "Techniques",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "Pair Programming",
+   "ring": "Adopt",
+   "quadrant": "Techniques",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "Mob Programming",
+   "ring": "Adopt",
+   "quadrant": "Techniques",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "Architecture Decision Records",
+   "ring": "Adopt",
+   "quadrant": "Techniques",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "Domain-Driven Design",
+   "ring": "Adopt",
+   "quadrant": "Techniques",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "Self-Contained Systems",
+   "ring": "Adopt",
+   "quadrant": "Techniques",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "Continuous Delivery",
+   "ring": "Adopt",
+   "quadrant": "Techniques",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "Team Working Agreements",
+   "ring": "Adopt",
+   "quadrant": "Techniques",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "Test-Driven Development",
+   "ring": "Assess",
+   "quadrant": "Techniques",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "Amazon RDS",
+   "ring": "Adopt",
+   "quadrant": "Infrastructure",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "Amazon SNS/SQS",
+   "ring": "Adopt",
+   "quadrant": "Infrastructure",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "Amazon S3",
+   "ring": "Adopt",
+   "quadrant": "Infrastructure",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "Amazon CloudFront",
+   "ring": "Adopt",
+   "quadrant": "Infrastructure",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "Kubernetes",
+   "ring": "Adopt",
+   "quadrant": "Infrastructure",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "Apache Kafka",
+   "ring": "Adopt",
+   "quadrant": "Infrastructure",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "Amazon ElastiCache",
+   "ring": "Hold",
+   "quadrant": "Infrastructure",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "RabbitMQ",
+   "ring": "Hold",
+   "quadrant": "Infrastructure",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "PHP 7",
+   "ring": "Adopt",
+   "quadrant": "languages and frameworks",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "MySQL",
+   "ring": "Adopt",
+   "quadrant": "languages and frameworks",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "Symfony",
+   "ring": "Adopt",
+   "quadrant": "languages and frameworks",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "Doctrine",
+   "ring": "Hold",
+   "quadrant": "languages and frameworks",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "Java",
+   "ring": "Adopt",
+   "quadrant": "languages and frameworks",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "Shell Scripting",
+   "ring": "Adopt",
+   "quadrant": "languages and frameworks",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "Python",
+   "ring": "Assess",
+   "quadrant": "languages and frameworks",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "PHPUnit",
+   "ring": "Adopt",
+   "quadrant": "languages and frameworks",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "Behat",
+   "ring": "Adopt",
+   "quadrant": "languages and frameworks",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "Gherkin",
+   "ring": "Adopt",
+   "quadrant": "languages and frameworks",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "TypeScript",
+   "ring": "Adopt",
+   "quadrant": "languages and frameworks",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "JavaScript",
+   "ring": "Adopt",
+   "quadrant": "languages and frameworks",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "ReactJS",
+   "ring": "Adopt",
+   "quadrant": "languages and frameworks",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "Static Code Analysis",
+   "ring": "Adopt",
+   "quadrant": "Tools",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "Redis",
+   "ring": "Hold",
+   "quadrant": "Tools",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "Redux",
+   "ring": "Adopt",
+   "quadrant": "Tools",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "TestCafe",
+   "ring": "Hold",
+   "quadrant": "Tools",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "Jest",
+   "ring": "Adopt",
+   "quadrant": "Tools",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "Composer",
+   "ring": "Adopt",
+   "quadrant": "Tools",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "Yarn",
+   "ring": "Adopt",
+   "quadrant": "Tools",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "Terraform",
+   "ring": "Adopt",
+   "quadrant": "Tools",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "Docker",
+   "ring": "Adopt",
+   "quadrant": "Tools",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "Docker-Compose",
+   "ring": "Adopt",
+   "quadrant": "Tools",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "Grafana",
+   "ring": "Hold",
+   "quadrant": "Tools",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "Prometheus",
+   "ring": "Hold",
+   "quadrant": "Tools",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "Graylog",
+   "ring": "Hold",
+   "quadrant": "Tools",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "New Relic",
+   "ring": "Hold",
+   "quadrant": "Tools",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "Data Dog",
+   "ring": "Adopt",
+   "quadrant": "Tools",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "GitLab",
+   "ring": "Adopt",
+   "quadrant": "Tools",
+   "isNew": false,
+   "description": ""
+ },
+ {
+   "name": "Jenkins",
+   "ring": "Hold",
+   "quadrant": "Tools",
+   "isNew": false,
+   "description": ""
+ }
+]
